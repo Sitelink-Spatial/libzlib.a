@@ -18,8 +18,8 @@ iOS build for [zlib](https://github.com/madler/zlib)
 
     .binaryTarget(
         name: "libzlib.a",
-        url: "https://github.com/Imajion/libzlib.a/releases/download/r2/libzlib.a.xcframework.zip",
-        checksum: "4f71f1f37af8c77aceb3036af64982b7905979685d6110b5142364db3b128d80"
+        url: "https://github.com/Imajion/libzlib.a/releases/download/r3/libzlib.a.xcframework.zip",
+        checksum: "42ad5813fe5c24af019a72097e96ec0b3985d0cc61810cb5f9c2e05c1148ccf3"
     )
 
 ```
